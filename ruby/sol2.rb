@@ -1,4 +1,4 @@
-puts "Euler project Solution 1"
+puts "Euler project Solution 2"
 $a = []
 $a[0] = 0
 $a[1] = 1
