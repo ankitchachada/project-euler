@@ -1,2 +1,2 @@
-load 'sol1.rb'
-load 'sol2.rb'
+load '../sol1.rb'
+load '../sol2.rb'
