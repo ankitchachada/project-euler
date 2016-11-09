@@ -1,3 +1,4 @@
+puts "Euler project Solution 1"
 $a = []
 $a[0] = 0
 $a[1] = 1
@@ -21,3 +22,5 @@ def fib(n)
 end
 
 sol2
+
+puts "End of Solution 2"
